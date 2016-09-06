@@ -460,6 +460,7 @@ div#fox-container-m100 .control-label, div#fox-container-m100 .control-label lab
 .blog .items-row .span12{
 	box-shadow: 0 5px 10px rgba(0,0,0,0.05);
 	margin-bottom: 50px;
+	background: #fff;
 }
 .blog .items-row .span12 .page-header{
 	margin: 20px 30px 10px;
